@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\list_box\bin\Debug\list_box.exe.config
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\list_box\bin\Debug\list_box.exe
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\list_box\bin\Debug\list_box.pdb
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\list_box\obj\Debug\list_box.Form1.resources
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\list_box\obj\Debug\list_box.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\list_box\obj\Debug\list_box.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\list_box\obj\Debug\list_box.exe
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\list_box\obj\Debug\list_box.pdb
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\list_box\obj\Debug\list_box.csprojResolveAssemblyReference.cache

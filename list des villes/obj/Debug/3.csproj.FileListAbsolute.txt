@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\PROGRAMING\Projects C# VS2015\basics_evenmentielle\list des villes\bin\Debug\list des villes.exe.config
+C:\Users\Lenovo\Desktop\PROGRAMING\Projects C# VS2015\basics_evenmentielle\list des villes\obj\Debug\list des villes.exe
+C:\Users\Lenovo\Desktop\PROGRAMING\Projects C# VS2015\basics_evenmentielle\list des villes\obj\Debug\list des villes.pdb
+C:\Users\Lenovo\Desktop\PROGRAMING\Projects C# VS2015\basics_evenmentielle\list des villes\bin\Debug\list des villes.exe
+C:\Users\Lenovo\Desktop\PROGRAMING\Projects C# VS2015\basics_evenmentielle\list des villes\bin\Debug\list des villes.pdb
+C:\Users\Lenovo\Desktop\PROGRAMING\Projects C# VS2015\basics_evenmentielle\list des villes\obj\Debug\3.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PROGRAMING\Projects C# VS2015\basics_evenmentielle\list des villes\obj\Debug\list_des_villes.Form1.resources
+C:\Users\Lenovo\Desktop\PROGRAMING\Projects C# VS2015\basics_evenmentielle\list des villes\obj\Debug\list_des_villes.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PROGRAMING\Projects C# VS2015\basics_evenmentielle\list des villes\obj\Debug\3.csproj.GenerateResource.Cache

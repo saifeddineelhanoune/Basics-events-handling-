@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\les 4 operations de 2 valeur\bin\Debug\les 4 operations de 2 valeur.exe.config
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\les 4 operations de 2 valeur\bin\Debug\les 4 operations de 2 valeur.exe
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\les 4 operations de 2 valeur\bin\Debug\les 4 operations de 2 valeur.pdb
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\les 4 operations de 2 valeur\obj\Debug\les 4 operations de 2 valeur.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\les 4 operations de 2 valeur\obj\Debug\les_4_operations_de_2_valeur.Form1.resources
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\les 4 operations de 2 valeur\obj\Debug\les_4_operations_de_2_valeur.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\les 4 operations de 2 valeur\obj\Debug\les 4 operations de 2 valeur.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\les 4 operations de 2 valeur\obj\Debug\les 4 operations de 2 valeur.exe
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\les 4 operations de 2 valeur\obj\Debug\les 4 operations de 2 valeur.pdb

@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\WindowsFormsApplication1\obj\Debug\5.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\WindowsFormsApplication1\obj\Debug\5.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

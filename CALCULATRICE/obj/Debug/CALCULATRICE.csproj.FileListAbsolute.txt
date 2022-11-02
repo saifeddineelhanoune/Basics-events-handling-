@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\CALCULATRICE\bin\Debug\CALCULATRICE.exe.config
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\CALCULATRICE\bin\Debug\CALCULATRICE.exe
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\CALCULATRICE\bin\Debug\CALCULATRICE.pdb
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\CALCULATRICE\obj\Debug\CALCULATRICE.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\CALCULATRICE\obj\Debug\CALCULATRICE.Form1.resources
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\CALCULATRICE\obj\Debug\CALCULATRICE.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\CALCULATRICE\obj\Debug\CALCULATRICE.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\CALCULATRICE\obj\Debug\CALCULATRICE.exe
+C:\Users\Lenovo\Desktop\projects C#\basics_evenmentielle\CALCULATRICE\obj\Debug\CALCULATRICE.pdb
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\CALCULATRICE\bin\Debug\CALCULATRICE.exe.config
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\CALCULATRICE\obj\Debug\CALCULATRICE.exe
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\CALCULATRICE\obj\Debug\CALCULATRICE.pdb
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\CALCULATRICE\obj\Debug\CALCULATRICE.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\CALCULATRICE\obj\Debug\CALCULATRICE.Form1.resources
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\CALCULATRICE\obj\Debug\CALCULATRICE.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\basics_evenmentielle\CALCULATRICE\obj\Debug\CALCULATRICE.csproj.GenerateResource.Cache
